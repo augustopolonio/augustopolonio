@@ -57,6 +57,8 @@
 <a href="https://linktr.ee/augustopolonio" target="_blank" >
   <img src="https://img.shields.io/badge/Linktree-333333?logo=linktree&logoColor=green" alt=mysite style="margin-bottom: 5px;height:40px;" />
 </a>
-
-</div>  
 <br/><br/>
+
+<img src="https://raw.githubusercontent.com/augustopolonio/augustopolonio/output/snake.svg" alt="Snake animation" />
+
+###
