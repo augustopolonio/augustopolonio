@@ -45,6 +45,7 @@
 # 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/augustopolonio/augustopolonio/output/snake.svg" alt="Snake animation" />
   <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=augustopolonio&theme=radical" />
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=augustopolonio&theme=radical)
@@ -53,12 +54,7 @@
 
 # 📫 Connect With Me
 
-
 <a href="https://linktr.ee/augustopolonio" target="_blank" >
   <img src="https://img.shields.io/badge/Linktree-333333?logo=linktree&logoColor=green" alt=mysite style="margin-bottom: 5px;height:40px;" />
 </a>
 <br/><br/>
-
-<img src="https://raw.githubusercontent.com/augustopolonio/augustopolonio/output/snake.svg" alt="Snake animation" />
-
-###
