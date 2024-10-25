@@ -1,6 +1,6 @@
 ## Hey! I'm Augusto 👋
 
-- 🔭 I'm **Tech Lead** with 10+ years of experience in Full Stack Web Development for SaaS applications.
+- 🔭 I'm **Tech Lead** with 10+ years of experience in Full Stack Web Development.
 - 🎓 Degree in Systems Analysis and Development.
 - 🌱 Currently enhancing skills in React, TypeScript, and Node.js for modern web development.
 - 🎮 Hobbyist Game Developer with knowledge in Unity and Godot.
