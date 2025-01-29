@@ -2,7 +2,6 @@
 
 - 🔭 I'm **Tech Lead** with 10+ years of experience in Full Stack Web Development.
 - 🎓 Degree in Systems Analysis and Development.
-- 🌱 Currently enhancing skills in React, TypeScript, and Node.js for modern web development.
 - 🎮 Hobbyist Game Developer with knowledge in Unity and Godot.
 
 # <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> Technologies That I Know
