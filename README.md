@@ -1,8 +1,12 @@
-## Hey! I'm Augusto 👋 <a href='https://ko-fi.com/augustopolonio' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+## Hey! I'm Augusto 👋 <a href='https://ko-fi.com/augustopolonio' target='_blank'><img style='border:0px;height:40px;' src='https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGZuaGY0NTNkMmR2MDVnOTNjdjE2djI2YzNudnFraXBkNm1pZjAxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bZgsAwXUIVU2tcKn7s/giphy.gif' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
-- 🔭 I'm **Tech Lead** with 10+ years of experience in Full Stack Web Development.
+- ⌨️ Sr. Full Stack Developer with 13+ years of experience developing SaaS applications.
+- 📡 I have been working remotely since 2016, which has honed my ability to collaborate effectively with distributed teams and manage projects independently.
 - 🎓 Degree in Systems Analysis and Development.
-- 🎮 Hobbyist Game Developer with knowledge in Unity and Godot.
+- 🎮 I'm passionate about games, so I'm a hobbyist Game Developer with knowledge in Unity and Godot, working with languages C# and GDScript respectively.
+
+### My portfolio
+https://augustopolonio.vercel.app
 
 # <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> Technologies That I Know
 
